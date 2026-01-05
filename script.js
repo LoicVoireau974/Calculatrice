@@ -10,3 +10,5 @@ let sub = n1 - n2;
 let pro = n1 * n2;
 // Faire la division de ces deux nombres
 let quo = n1 / n2;
+// Demandez à l'utilisateur quelle opérateur choisir pour faire le calcul
+let operatorChoice = prompt('Veuillez choisir entre +, -, x, / : ');
