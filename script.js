@@ -4,4 +4,9 @@ let n1 = Number(prompt("Veuillez saisir un premier nombre : "));
 let n2 = Number(prompt("Veuillez saisir un deuxième nombre : "));
 // Faire l'addition de ces deux nombres
 let sum = n1 + n2;
-console.log(sum);
+// Faire la soustraction de ces deux nombres 
+let sub = n1 - n2;
+// Faire la multiplication de ces deux nombres
+let pro = n1 * n2;
+// Faire la division de ces deux nombres
+let quo = n1 / n2;
